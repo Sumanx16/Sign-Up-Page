@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Attach event listener to the form to handle submission
     const form = document.querySelector("form");
+
     form.addEventListener("submit", function (event) {
         event.preventDefault(); // Prevent default form submission
         handleSignup();
@@ -25,7 +26,12 @@ function handleSignup() {
     console.log("Email:", email);
     console.log("Password:", password);
 
-    alert("Sign-up successful!"); // Placeholder action
+    // Replace the signup form with a "Thank You" message
+    const signupBox = document.querySelector(".signup-box");
+    signupBox.innerHTML = `
+        <h2>Thank You for Signing Up!</h2>
+        <p>Welcome, <strong>${name}</strong>! Your sign-up was successful.</p>
+    `;
 }
 
 // Function to toggle password visibility
