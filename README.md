@@ -1,6 +1,6 @@
-# Sign-In Page | Front-End Project 🚀
+# Sign-Up Page | Front-End Project 🚀
 ## 📌 Overview
-This is a beautifully designed Sign-In Page built using HTML, CSS, and JavaScript. The page provides a clean, responsive, and user-friendly interface for authentication.
+This is a beautifully designed Sign-Up Page built using HTML, CSS, and JavaScript. The page provides a clean, responsive, and user-friendly interface for authentication.
 
 ## ✨ Features
 ✅ Responsive Design (Works on all devices) 📱💻
@@ -14,6 +14,7 @@ This is a beautifully designed Sign-In Page built using HTML, CSS, and JavaScrip
 ✅ Secure password toggle functionality 🔒
 
 ## 📸 Live Preview
+visit (https://sign-up-page-blush.vercel.app/)
 ![Demo Video](video1-ezgif.com-video-to-gif-converter.gif)
 
 ## 🛠️ Technologies Used
