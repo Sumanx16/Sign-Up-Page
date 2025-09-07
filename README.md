@@ -1,4 +1,4 @@
-# Sign-Up Page | Front-End Project 🚀
+
 ## 📌 Overview
 This is a beautifully designed Sign-Up Page built using HTML, CSS, and JavaScript. The page provides a clean, responsive, and user-friendly interface for authentication.
 
